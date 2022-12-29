@@ -1,0 +1,15 @@
+.control-bar {
+  display: flex;
+  border: 1px solid #ababab;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.control-bar > div {
+  padding: 10px;
+}
+
+.control-bar .button-container {
+  align-self: flex-end;
+}

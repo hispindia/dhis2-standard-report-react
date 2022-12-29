@@ -1,0 +1,35 @@
+.report-table table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+}
+
+.report-table th,
+.report-table td {
+  border: 1px solid #ccc;
+  font-size: small;
+  padding: 5px 10px 5px 10px;
+}
+
+.report-table td.row-title {
+  text-align: left;
+}
+
+.report-table td {
+  text-align: right;
+}
+
+.report-table .report-title {
+  background-color: #bdbdbd;
+  font-size: large;
+}
+
+.report-table .main-label,
+.report-table .balance-col {
+  background-color: #ededed;
+  font-size: small;
+}
+
+.report-table .balance-col {
+  width: 8.5%;
+}

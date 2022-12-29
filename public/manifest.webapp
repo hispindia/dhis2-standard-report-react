@@ -1,0 +1,23 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "appType": "DASHBOARD_WIDGET",
+  "name": "TEST DASHBOARD WIDGET APP",
+  "version": "0.1.1",
+  "description": "TEST DASHBOARD WIDGET APP",
+  "developer": {
+    "name": "HISPVN Team"
+  },
+  "key": "tdwa",
+  "short_name": "tdwa",
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}

@@ -1,0 +1,15 @@
+#root {
+  font-family: NotoSansLao, Roboto, sans-serif !important;
+}
+
+.service-coverage-container {
+  overflow: auto;
+  width: 100%;
+  height: 100%;
+}
+
+.error-field {
+  text-align: center;
+  color: #f44336;
+  font-weight: bold;
+}

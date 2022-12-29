@@ -1,0 +1,17 @@
+.period-selector-container {
+  width: 200px;
+}
+.period-selector-popover-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.period-selector-popover-container > div {
+  width: 180px;
+  margin: 20px;
+}
+
+.warning-field {
+  color: #f44336;
+  font-weight: bold;
+}

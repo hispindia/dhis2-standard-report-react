@@ -1,0 +1,41 @@
+.province-report-table table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+}
+
+.province-report-table th,
+.province-report-table td {
+  border: 1px solid #ccc;
+  font-size: small;
+  padding: 5px 10px 5px 10px;
+}
+
+.province-report-table td.row-title {
+  text-align: left;
+}
+
+.province-report-table td {
+  text-align: right;
+}
+
+.province-report-table .report-title {
+  background-color: #d9e2f3;
+  font-size: large;
+}
+
+.province-report-table .main-label,
+.province-report-table .balance-col {
+  background-color: #ededed;
+  font-size: small;
+}
+
+.province-report-table .hospital-col-title,
+.province-report-table .hospital-name,
+.province-report-table .total-field {
+  background-color: #ededed;
+}
+
+.province-report-table .balance-col {
+  width: 7.6%;
+}

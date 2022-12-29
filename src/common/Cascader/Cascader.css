@@ -1,0 +1,7 @@
+.cascader-container {
+  display: flex;
+}
+.cascader-container > div {
+  width: 200px;
+  margin-right: 10px;
+}
